@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>KMCheck — Administração</title>
+  <link rel="stylesheet" href="/admin.css">
+</head>
+<body>
+  <main class="admin-shell">
+    <header class="topbar">
+      <div class="brand"><span>KM</span>Check</div>
+      <a href="/" class="back">Voltar para consulta</a>
+    </header>
+
+    <section class="panel">
+      <div class="heading">
+        <div>
+          <p class="eyebrow">BASE PRÓPRIA</p>
+          <h1>Cadastro de veículos</h1>
+          <p class="muted">Cadastre placa, modelo e todas as leituras de KM que o KMCheck deverá entregar.</p>
+        </div>
+      </div>
+
+      <form id="vehicleForm">
+        <input type="hidden" id="editingPlate">
+        <div class="grid">
+          <label>Chave administrativa<input id="adminKey" type="password" placeholder="Sua ADMIN_KEY" required></label>
+          <label>Placa<input id="placa" maxlength="7" placeholder="ABC1D23" required></label>
+          <label>Nome do veículo<input id="nome" placeholder="Honda Civic Touring"></label>
+          <label>Marca<input id="marca" placeholder="Honda"></label>
+          <label>Modelo<input id="modelo" placeholder="Civic Touring"></label>
+          <label>Ano/modelo<input id="anoModelo" type="number" min="1900" max="2100" placeholder="2020"></label>
+          <label>Tipo<input id="tipo" value="Automóvel"></label>
+        </div>
+
+        <div class="history-head">
+          <div>
+            <p class="eyebrow">HISTÓRICO</p>
+            <h2>Registros de quilometragem</h2>
+          </div>
+          <button type="button" class="secondary" id="addHistory">+ Adicionar registro</button>
+        </div>
+
+        <div id="historyRows"></div>
+
+        <div class="actions">
+          <button type="submit" id="save">Cadastrar veículo</button>
+          <button type="button" class="secondary hidden" id="cancelEdit">Cancelar edição</button>
+        </div>
+      </form>
+      <div id="message" class="message hidden"></div>
+    </section>
+
+    <section class="panel">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">VEÍCULOS</p>
+          <h2>Cadastrados</h2>
+        </div>
+        <button type="button" class="secondary" id="reload">Atualizar</button>
+      </div>
+      <div id="vehicleList" class="vehicle-list"></div>
+    </section>
+  </main>
+<script src="/admin.js"></script>
+</body>
+</html>

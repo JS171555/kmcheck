@@ -1,0 +1,86 @@
+﻿<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>KMCheck</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link rel="stylesheet" href="/styles.css" />
+    </head>
+    <body>
+        <main class="app">
+            <header class="topbar">
+                <div class="brand"><span>KM</span>Check</div>
+                <div class="status-dot" title="KMCheck"></div>
+            </header>
+
+            <section class="search-card">
+                <div>
+                    <p class="eyebrow">KMCheck</p>
+                    <h1>Histórico de quilometragem</h1>
+                    <p class="muted">Consulte o histórico cadastrado e veja a evolução do KM.</p>
+                </div>
+
+                <form id="searchForm" class="search-form">
+                    <label for="plate">Placa</label>
+                    <div class="search-row">
+                        <input
+                            id="plate"
+                            name="plate"
+                            maxlength="7"
+                            autocomplete="off"
+                            placeholder="ABC1D23"
+                            required
+                        />
+                        <button type="submit" id="searchButton"><i class="fa-solid fa-magnifying-glass"></i> Consultar</button>
+                    </div>
+                    <small>O KMCheck consulta a base própria cadastrada pelo administrador.</small>
+                </form>
+            </section>
+
+            <section id="message" class="message hidden"></section>
+
+            <section id="result" class="result hidden">
+                <div class="vehicle-card">
+                    <div>
+                        <p class="eyebrow">VEÍCULO</p>
+                        <h2 id="vehicleName">—</h2>
+                        <p id="vehicleSub" class="muted">—</p>
+                    </div>
+                    <div class="metric">
+                        <span>Último KM</span>
+                        <strong id="latestKm">—</strong>
+                    </div>
+                </div>
+
+                <div id="alert" class="alert hidden"></div>
+
+                <div class="chart-card">
+                    <div class="section-heading">
+                        <div>
+                            <p class="eyebrow">ANÁLISE</p>
+                            <h3>Histórico de quilometragem</h3>
+                        </div>
+                        <span id="consistencyBadge" class="badge">—</span>
+                    </div>
+                    <div class="chart-wrap">
+                        <canvas id="kmChart" aria-label="Gráfico de histórico de quilometragem"></canvas>
+                    </div>
+                </div>
+
+                <div class="history-card">
+                    <div class="section-heading">
+                        <div>
+                            <p class="eyebrow">VISTORIAS</p>
+                            <h3>Histórico</h3>
+                        </div>
+                        <span id="inspectionCount" class="muted">0</span>
+                    </div>
+                    <div id="historyList" class="history-list"></div>
+                </div>
+            </section>
+        </main>
+
+        <script src="/app.js"></script>
+    </body>
+</html>

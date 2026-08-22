@@ -1,0 +1,676 @@
+{
+  "vehicles": [
+    {
+      "placa": "PLF3B55",
+      "nome": "RENAULT/CAPTUR ZEN 16M",
+      "marca": "RENAULT",
+      "modelo": "CAPTUR ZEN 16M",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2018,
+      "anoModelo": 2019,
+      "cor": "BRANCA",
+      "renavam": "01163147823",
+      "chassi": "93YRHAMH1KJ363076",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": []
+    },
+    {
+      "placa": "FTW6H39",
+      "nome": "I/RENAULT CLIO EXP1016VH",
+      "marca": "I",
+      "modelo": "RENAULT CLIO EXP1016VH",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2015,
+      "anoModelo": 2016,
+      "cor": "PRATA",
+      "renavam": "01078278943",
+      "chassi": "8A1BB8215GL129630",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2025-11-25",
+          "km": 117380,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2024-12-17",
+          "km": 100445,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2019-05-10",
+          "km": 77692,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2019-03-26",
+          "km": 77256,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "QOZ5B85",
+      "nome": "TOYOTA/COROLLA GLI UPPER",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA GLI UPPER",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2018,
+      "anoModelo": 2019,
+      "cor": "PRATA",
+      "renavam": "01163246619",
+      "chassi": "9BRBL3HE9K0170838",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2024-08-13",
+          "km": 97023,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2024-08-02",
+          "km": 96927,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FRB2H65",
+      "nome": "RENAULT/DUSTER DYN16 SCE",
+      "marca": "RENAULT",
+      "modelo": "DUSTER DYN16 SCE",
+      "tipo": "CAMIONETA",
+      "anoFabricacao": 2017,
+      "anoModelo": 2017,
+      "cor": "VERMELHA",
+      "renavam": "01113404830",
+      "chassi": "93YHSR3H5HJ742100",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2026-06-08",
+          "km": 116553,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2026-02-26",
+          "km": 115361,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FJA5H04",
+      "nome": "FORD/ECOSPORT FSL 1.6",
+      "marca": "FORD",
+      "modelo": "ECOSPORT FSL 1.6",
+      "tipo": "CAMIONETA",
+      "anoFabricacao": 2013,
+      "anoModelo": 2013,
+      "cor": "PRETA",
+      "renavam": "00532646290",
+      "chassi": "9BFZB55P4D8824956",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2026-06-22",
+          "km": 129296,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2024-08-24",
+          "km": 117097,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2024-08-24",
+          "km": 117097,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2020-09-02",
+          "km": 90337,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2018-04-17",
+          "km": 71355,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "QNP1376",
+      "nome": "FORD/ECOSPORT SE 1.5",
+      "marca": "FORD",
+      "modelo": "ECOSPORT SE 1.5",
+      "tipo": "CAMIONETA",
+      "anoFabricacao": 2017,
+      "anoModelo": 2018,
+      "cor": "VERMELHA",
+      "renavam": "01138923386",
+      "chassi": "9BFZB55S1J8688043",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": []
+    },
+    {
+      "placa": "GIW7J10",
+      "nome": "TOYOTA/ETIOS SD X 15L AT",
+      "marca": "TOYOTA",
+      "modelo": "ETIOS SD X 15L AT",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2017,
+      "anoModelo": 2018,
+      "cor": "BRANCA",
+      "renavam": "01112404969",
+      "chassi": "9BRB29BTXJ2153515",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2026-07-24",
+          "km": 166702,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2024-08-30",
+          "km": 162026,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FNS4A36",
+      "nome": "FORD/FIESTA HA 1.5L SB",
+      "marca": "FORD",
+      "modelo": "FIESTA HA 1.5L SB",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2015,
+      "anoModelo": 2016,
+      "cor": "BRANCA",
+      "renavam": "01059202180",
+      "chassi": "9BFZD55J9GB837781",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2026-02-11",
+          "km": 99108,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2026-02-11",
+          "km": 99108,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2025-11-11",
+          "km": 98306,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2025-09-25",
+          "km": 97209,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2025-07-15",
+          "km": 97158,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "EUT1E15",
+      "nome": "FORD/FIESTA 1.6 FLEX",
+      "marca": "FORD",
+      "modelo": "FIESTA 1.6 FLEX",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2011,
+      "anoModelo": 2011,
+      "cor": "PRETA",
+      "renavam": "00322063680",
+      "chassi": "9BFZF55P8B8185126",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2025-11-11",
+          "km": 117207,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2024-02-07",
+          "km": 253589,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2019-08-01",
+          "km": 216993,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "EKR1208",
+      "nome": "FORD/FIESTA SEDAN1.6FLEX",
+      "marca": "FORD",
+      "modelo": "FIESTA SEDAN1.6FLEX",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2010,
+      "anoModelo": 2011,
+      "cor": "PRATA",
+      "renavam": "00224598422",
+      "chassi": "9BFZF54P6B8048378",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2023-07-26",
+          "km": 168205,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "HSJ8J58",
+      "nome": "HONDA/FIT EX",
+      "marca": "HONDA",
+      "modelo": "FIT EX",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2007,
+      "anoModelo": 2007,
+      "cor": "CINZA",
+      "renavam": "00911936173",
+      "chassi": "93HGD38807Z110181",
+      "combustivel": "GASOLINA",
+      "historico": [
+        {
+          "data": "2024-10-31",
+          "km": 183347,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FDW1A86",
+      "nome": "HONDA/FIT LX FLEX",
+      "marca": "HONDA",
+      "modelo": "FIT LX FLEX",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2012,
+      "anoModelo": 2013,
+      "cor": "VERMELHA",
+      "renavam": "00471485810",
+      "chassi": "93HGE6750DZ204626",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2026-06-11",
+          "km": 158674,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2025-11-25",
+          "km": 260529,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "PKG5J51",
+      "nome": "M.BENZ/GLA250",
+      "marca": "M.BENZ",
+      "modelo": "GLA250",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2016,
+      "anoModelo": 2016,
+      "cor": "BRANCA",
+      "renavam": "01108046506",
+      "chassi": "9BMTG4EW2GM000662",
+      "combustivel": "GASOLINA",
+      "historico": [
+        {
+          "data": "2023-12-14",
+          "km": 108800,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2023-10-30",
+          "km": 72148,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2023-09-04",
+          "km": 72038,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2023-08-29",
+          "km": 72032,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2023-02-03",
+          "km": 105206,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FXG0I81",
+      "nome": "HYUNDAI/HB20 1.6M COMF",
+      "marca": "HYUNDAI",
+      "modelo": "HB20 1.6M COMF",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2015,
+      "anoModelo": 2015,
+      "cor": "PRETA",
+      "renavam": "01049888488",
+      "chassi": "9BHBG51DAFP430912",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2018-11-12",
+          "km": 70744,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2018-07-16",
+          "km": 70127,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2018-06-01",
+          "km": 69709,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "PYH7F01",
+      "nome": "HYUNDAI/HB20 1.0M COMFOR",
+      "marca": "HYUNDAI",
+      "modelo": "HB20 1.0M COMFOR",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2016,
+      "anoModelo": 2017,
+      "cor": "PRATA",
+      "renavam": "01097172101",
+      "chassi": "9BHBG51CAHP668247",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2025-10-21",
+          "km": 141127,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FUI6G01",
+      "nome": "VW/NIVUS HL TSI",
+      "marca": "VW",
+      "modelo": "NIVUS HL TSI",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2022,
+      "anoModelo": 2023,
+      "cor": "BRANCA",
+      "renavam": "01331095279",
+      "chassi": "9BWCH6CH1PP001157",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2025-04-03",
+          "km": 59626,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2025-03-18",
+          "km": 59442,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2024-10-24",
+          "km": 54037,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "PDW7J38",
+      "nome": "CHEVROLET/ONIX 10MT JOYE",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX 10MT JOYE",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2017,
+      "anoModelo": 2018,
+      "cor": "CINZA",
+      "renavam": "01127620131",
+      "chassi": "9BGKL48U0JB121774",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2023-12-20",
+          "km": 93651,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FXZ3D25",
+      "nome": "CHEVROLET/ONIX 1.0MT LT",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX 1.0MT LT",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2016,
+      "anoModelo": 2017,
+      "cor": "BRANCA",
+      "renavam": "01100440175",
+      "chassi": "9BGKS48U0HG151329",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2023-07-03",
+          "km": 55673,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2023-05-09",
+          "km": 54229,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2019-11-04",
+          "km": 14829,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FPW9F85",
+      "nome": "CHEV/ONIX 10MT LT2",
+      "marca": "CHEV",
+      "modelo": "ONIX 10MT LT2",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2023,
+      "anoModelo": 2024,
+      "cor": "PRATA",
+      "renavam": "01346749423",
+      "chassi": "9BGEB48A0RG106001",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": []
+    },
+    {
+      "placa": "FOC9B39",
+      "nome": "I/KIA PICANTO EX41.0MTFF",
+      "marca": "I",
+      "modelo": "KIA PICANTO EX41.0MTFF",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2016,
+      "anoModelo": 2017,
+      "cor": "CINZA",
+      "renavam": "01116508696",
+      "chassi": "KNABX514AHT377278",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2021-08-09",
+          "km": 45978,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "FMB2G75",
+      "nome": "CHEV/PRISMA 1.4MT LTZ",
+      "marca": "CHEV",
+      "modelo": "PRISMA 1.4MT LTZ",
+      "tipo": "AUTOMÓVEL",
+      "anoFabricacao": 2013,
+      "anoModelo": 2014,
+      "cor": "PRATA",
+      "renavam": "00558471234",
+      "chassi": "9BGKT69L0EG151565",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2026-05-22",
+          "km": 162377,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2026-02-19",
+          "km": 161607,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2025-12-16",
+          "km": 161348,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2019-03-13",
+          "km": 83748,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2018-03-13",
+          "km": 83484,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "DXV1B26",
+      "nome": "I/FORD RANGER XLT 12A",
+      "marca": "I",
+      "modelo": "FORD RANGER XLT 12A",
+      "tipo": "CAMINHONETE",
+      "anoFabricacao": 2007,
+      "anoModelo": 2007,
+      "cor": "PRATA",
+      "renavam": "00924627158",
+      "chassi": "8AFDR12A17J086693",
+      "combustivel": "GASOL/GNV",
+      "historico": [
+        {
+          "data": "2020-09-28",
+          "km": 215424,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2018-02-26",
+          "km": 137076,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2018-02-22",
+          "km": 137070,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2017-01-24",
+          "km": 123050,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    },
+    {
+      "placa": "GFE3F43",
+      "nome": "FIAT/STRADA HD WK CC E",
+      "marca": "FIAT",
+      "modelo": "STRADA HD WK CC E",
+      "tipo": "CAMINHONETE",
+      "anoFabricacao": 2020,
+      "anoModelo": 2020,
+      "cor": "BRANCA",
+      "renavam": "01229832081",
+      "chassi": "9BD5781FFLY414792",
+      "combustivel": "ALCOOL/GASOLINA",
+      "historico": [
+        {
+          "data": "2026-07-21",
+          "km": 118267,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        },
+        {
+          "data": "2026-04-06",
+          "km": 117984,
+          "modalidade": "Vistoria",
+          "situacao": "Aprovado"
+        }
+      ]
+    }
+  ]
+}
